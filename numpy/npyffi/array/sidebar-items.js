@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["PyArray_Check","PyArray_CheckExact"],"static":["PY_ARRAY_API"],"struct":["PyArrayAPI"]};
